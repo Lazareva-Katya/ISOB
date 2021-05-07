@@ -1,0 +1,15 @@
+D:\6 SEM\ISOB\Labs\Lab2_Client\bin\Debug\netcoreapp3.1\Lab2_Client.exe
+D:\6 SEM\ISOB\Labs\Lab2_Client\bin\Debug\netcoreapp3.1\Lab2_Client.deps.json
+D:\6 SEM\ISOB\Labs\Lab2_Client\bin\Debug\netcoreapp3.1\Lab2_Client.runtimeconfig.json
+D:\6 SEM\ISOB\Labs\Lab2_Client\bin\Debug\netcoreapp3.1\Lab2_Client.runtimeconfig.dev.json
+D:\6 SEM\ISOB\Labs\Lab2_Client\bin\Debug\netcoreapp3.1\Lab2_Client.dll
+D:\6 SEM\ISOB\Labs\Lab2_Client\bin\Debug\netcoreapp3.1\Lab2_Client.pdb
+D:\6 SEM\ISOB\Labs\Lab2_Client\obj\Debug\netcoreapp3.1\Lab2_Client.csprojAssemblyReference.cache
+D:\6 SEM\ISOB\Labs\Lab2_Client\obj\Debug\netcoreapp3.1\Lab2_Client.Form1.resources
+D:\6 SEM\ISOB\Labs\Lab2_Client\obj\Debug\netcoreapp3.1\Lab2_Client.csproj.GenerateResource.cache
+D:\6 SEM\ISOB\Labs\Lab2_Client\obj\Debug\netcoreapp3.1\Lab2_Client.AssemblyInfoInputs.cache
+D:\6 SEM\ISOB\Labs\Lab2_Client\obj\Debug\netcoreapp3.1\Lab2_Client.AssemblyInfo.cs
+D:\6 SEM\ISOB\Labs\Lab2_Client\obj\Debug\netcoreapp3.1\Lab2_Client.csproj.CoreCompileInputs.cache
+D:\6 SEM\ISOB\Labs\Lab2_Client\obj\Debug\netcoreapp3.1\Lab2_Client.dll
+D:\6 SEM\ISOB\Labs\Lab2_Client\obj\Debug\netcoreapp3.1\Lab2_Client.pdb
+D:\6 SEM\ISOB\Labs\Lab2_Client\obj\Debug\netcoreapp3.1\Lab2_Client.genruntimeconfig.cache

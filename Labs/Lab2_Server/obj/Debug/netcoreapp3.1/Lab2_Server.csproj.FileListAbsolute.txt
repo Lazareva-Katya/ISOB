@@ -1,0 +1,13 @@
+D:\6 SEM\ISOB\Labs\Lab2_Server\bin\Debug\netcoreapp3.1\Lab2_Server.exe
+D:\6 SEM\ISOB\Labs\Lab2_Server\bin\Debug\netcoreapp3.1\Lab2_Server.deps.json
+D:\6 SEM\ISOB\Labs\Lab2_Server\bin\Debug\netcoreapp3.1\Lab2_Server.runtimeconfig.json
+D:\6 SEM\ISOB\Labs\Lab2_Server\bin\Debug\netcoreapp3.1\Lab2_Server.runtimeconfig.dev.json
+D:\6 SEM\ISOB\Labs\Lab2_Server\bin\Debug\netcoreapp3.1\Lab2_Server.dll
+D:\6 SEM\ISOB\Labs\Lab2_Server\bin\Debug\netcoreapp3.1\Lab2_Server.pdb
+D:\6 SEM\ISOB\Labs\Lab2_Server\obj\Debug\netcoreapp3.1\Lab2_Server.csprojAssemblyReference.cache
+D:\6 SEM\ISOB\Labs\Lab2_Server\obj\Debug\netcoreapp3.1\Lab2_Server.AssemblyInfoInputs.cache
+D:\6 SEM\ISOB\Labs\Lab2_Server\obj\Debug\netcoreapp3.1\Lab2_Server.AssemblyInfo.cs
+D:\6 SEM\ISOB\Labs\Lab2_Server\obj\Debug\netcoreapp3.1\Lab2_Server.csproj.CoreCompileInputs.cache
+D:\6 SEM\ISOB\Labs\Lab2_Server\obj\Debug\netcoreapp3.1\Lab2_Server.dll
+D:\6 SEM\ISOB\Labs\Lab2_Server\obj\Debug\netcoreapp3.1\Lab2_Server.pdb
+D:\6 SEM\ISOB\Labs\Lab2_Server\obj\Debug\netcoreapp3.1\Lab2_Server.genruntimeconfig.cache
